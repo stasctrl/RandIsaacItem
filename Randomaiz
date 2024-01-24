@@ -1,0 +1,4 @@
+import random
+import spisokitem
+item_drop = random.choice(spisokitem.spisok)
+print(item_drop)
